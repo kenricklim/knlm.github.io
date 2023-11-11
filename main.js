@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
   
   function handleUserInteraction() {
     
-    alert('Hi there! Please accept this as my mini gift for u HAHAHAHAHAH.');
+    alert('Hi there! Please accept this as my small gift for u HAHAHAHAHAH.');
     const userName = prompt("Please enter your name:");
     const userAge = prompt("Please enter your age:");
 
