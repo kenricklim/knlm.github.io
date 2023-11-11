@@ -21,11 +21,11 @@ document.addEventListener('DOMContentLoaded', function () {
     const greetingElement = document.getElementById("personalizedGreeting");
     greetingElement.textContent = greeting;
 
-    alert("If nababasa mo 'to, i hope na gumana yung whole program");
+    alert("If nababasa mo 'to, i hope na gumagana yung whole program");
     alert('If incase di gumana animation sa una, pls refresh the page and kunwari first time mo ulit makita HAAHAHAH');
     alert('And also sowwy if eto lang muna :<');
     alert('I do have something for u but wala pa dito so eto muna AHAHAHAHA');
-    alert('I hope to give it if magkikita us, I know u are very busy at the moment but if u have the time or di kana busy and kung want mo lang naman');
+    alert('I hope to give that if may chance na magkita us, I know u are very busy at the moment but if u have the time or di kana busy and kung want mo lang naman');
     alert("I'd be really happy to know more about u and hangout with u sometime :))");
     alert('ANYWAYSS......');
     alert("I hope that you'll enjoy your day!");
