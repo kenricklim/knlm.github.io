@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function () {
     alert('Surprise in 3');
     alert('Surprise in 2');
     alert('Surprise in 1');
-    alert("Everyday is a gift. But some days are packaged better." -Sanhita Baruah);
+    alert("Everyday is a gift. But some days are packaged better. -Sanhita Baruah");
 
     
     document.body.style.visibility = "visible";
