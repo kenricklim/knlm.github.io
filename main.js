@@ -23,18 +23,19 @@ document.addEventListener('DOMContentLoaded', function () {
 
     alert("If nababasa mo 'to, i hope na gumagana yung whole program");
     alert('If incase di gumana animation sa una, pls refresh the page and kunwari first time mo ulit makita HAAHAHAH');
-    alert('And also sowwy if eto lang muna :<');
-    alert('I do have something for u but wala pa dito so eto muna AHAHAHAHA');
+    alert('And also sowwy if eto lang nakayanan :)), i just really made this kanina kaya wala masyadong design');
+    alert('I do have something for u and i'll give it when the time is right :)');
     alert('I hope to give that if may chance na magkita us, I know u are very busy at the moment but if u have the time or di kana busy and kung want mo lang naman');
-    alert("I'd be really happy to know more about u and hangout with u sometime :))");
+    alert("I'd be really happy to meet u and hangout with u sometime :))");
     alert('ANYWAYSS......');
     alert("I hope that you'll enjoy your day!");
     alert("More birthdays to come!");
     alert("May God bless you and your fam!");
-    alert("GL to your works!");
+    alert("GL to your works and acads!");
     alert('Surprise in 3');
     alert('Surprise in 2');
     alert('Surprise in 1');
+    alert("Everyday is a gift. But some days are packaged better." -Sanhita Baruah);
 
     
     document.body.style.visibility = "visible";
