@@ -32,10 +32,7 @@ document.addEventListener('DOMContentLoaded', function () {
     alert("More birthdays to come!");
     alert("May God bless you and your fam!");
     alert("GL to your works and acads!");
-    alert('Surprise in 3');
-    alert('Surprise in 2');
-    alert('Surprise in 1');
-    alert("Everyday is a gift. But some days are packaged better. -Sanhita Baruah");
+    alert("You make each day special just by being yourself. I hope your birthday is as special as you are.");
 
     
     document.body.style.visibility = "visible";
