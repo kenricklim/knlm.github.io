@@ -32,9 +32,9 @@ document.addEventListener('DOMContentLoaded', function () {
     alert("More birthdays to come!");
     alert("May God bless you and your fam!");
     alert("GL to your works!");
-    alert('Suprise in 3');
-    alert('Suprise in 2');
-    alert('Suprise in 1');
+    alert('Surprise in 3');
+    alert('Surprise in 2');
+    alert('Surprise in 1');
 
     
     document.body.style.visibility = "visible";
